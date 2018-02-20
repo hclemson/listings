@@ -2,8 +2,8 @@
   "paging": {
     "pageNumber": 1,
     "numberOfPages": 1,
-    "totalItems": 3,
-    "pageSize": 3
+    "totalItems": 8,
+    "pageSize": 8
   },
   "data": [
     {
@@ -17,24 +17,8 @@
         "#blackpool"
       ],
       "smartDescription": [
-        "Anyone going to see #Britney in #Blackpool next week?"
+        "Anyone going to see #Britney in #Blackpool next week?6"
       ],
-      "sellerPublicProfile": {
-        "userId": "seller-id",
-        "memberSince": "2018-02-12T17:45:34.402Z",
-        "firstName": "Seller",
-        "lastName": "Validated",
-        "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
-        "location": "Lancashire",
-        "bannerUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59be.jpg",
-        "about": "My name is Vibe Tickets and I like am the official Seller"
-      },
-      "availability": {
-        "numberOfOffers": 0,
-        "numberOfChatGroups": 0,
-        "numberOfComments": 0,
-        "status": "AVAILABLE"
-      },
       "ownerPublicProfile": {
         "userId": "seller-id",
         "memberSince": "2018-02-12T17:45:34.402Z",
@@ -46,9 +30,10 @@
         "about": "My name is Vibe Tickets and I like am the official Seller"
       },
       "mediaType": "text/plain",
-      "viewCount": 1
+      "viewCount": 1,
+      "commentCount": 2
     },
-        {
+    {
       "type": "Media",
       "id": "5a8bf90de4b043ddc26a9755",
       "createdAt": "2018-02-20T10:38:41.884Z",
@@ -60,22 +45,6 @@
       "smartDescription": [
         "#Oasis in concert 1996"
       ],
-      "sellerPublicProfile": {
-        "userId": "seller-id",
-        "memberSince": "2018-02-12T17:45:34.402Z",
-        "firstName": "Seller",
-        "lastName": "Validated",
-        "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
-        "location": "Lancashire",
-        "bannerUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59be.jpg",
-        "about": "My name is Vibe Tickets and I like am the official Seller"
-      },
-      "availability": {
-        "numberOfOffers": 0,
-        "numberOfChatGroups": 0,
-        "numberOfComments": 0,
-        "status": "AVAILABLE"
-      },
       "ownerPublicProfile": {
         "userId": "seller-id",
         "memberSince": "2018-02-12T17:45:34.402Z",
@@ -88,7 +57,8 @@
       },
       "mediaURL": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Fnintchdbpict000258807022.jpg?alt=media&token=3800530a-25e7-486c-b3d3-b4a9f94c05d1",
       "mediaType": "image/jpeg",
-      "viewCount": 1
+      "viewCount": 1,
+      "commentCount": 1
     },
     {
       "type": "Wanted",

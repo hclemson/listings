@@ -278,6 +278,7 @@
     "header": {
       "bio": "Formed by brothers Noel and Liam Gallagher and their Manchester mates, Oasis rose to the top of the British charts in the mid-Nineties with its flair for classic psychedelic pop",
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Foasis.jpg?alt=media&token=0970ea5d-2364-4b66-a95f-f4ac2c12b871"
-    }
+    },
+    "following" : "true"
   }
 }

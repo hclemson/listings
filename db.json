@@ -3,8 +3,8 @@
     "paging": {
       "pageNumber": 1,
       "numberOfPages": 1,
-      "totalItems": 2,
-      "pageSize": 2
+      "totalItems": 1,
+      "pageSize": 1
     },
     "data": [
       {
@@ -44,131 +44,6 @@
         ],
         "viewCount": 1,
         "commentCount": 1
-      },
-      {
-        "type": "Wanted",
-        "id": "5a8bf90de4b043ddc26a9752",
-        "createdAt": "2018-02-20T10:31:41.884Z",
-        "score": 0,
-        "version": 1,
-        "description": "#London #AllPointsEastPresents",
-        "hashTags": [
-          "#allpointseastpresents"
-        ],
-        "askingPrice": {
-          "currencyCode": "GBP",
-          "amount": "0.00"
-        },
-        "faceValue": {
-          "currencyCode": "GBP",
-          "amount": "0.00"
-        },
-        "delivery": "ANY",
-        "smartDescription": [
-          {
-            "display": "All Points Easy Presents",
-            "tag": "#AllPointsEastPresents",
-            "category": "Event",
-            "smarties": [
-              {
-                "pop": 7556901,
-                "geoId": "2643743",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "type": "LocationSmartie"
-              },
-              {
-                "type": "DateSmartie",
-                "timeStamp": "2018-06-01T00:00:00.000Z"
-              },
-              {
-                "genres": [
-                  "Indie"
-                ],
-                "type": "ActSmartie"
-              }
-            ],
-            "disc": "London, UK",
-            "id": "a3148edf1a11f8f7",
-            "rank": 3
-          },
-          " "
-        ],
-        "sellerPublicProfile": {
-          "userId": "seller-id",
-          "memberSince": "2018-02-12T17:45:34.402Z",
-          "firstName": "Seller",
-          "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
-          "location": "Lancashire",
-          "bannerUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59be.jpg",
-          "about": "My name is Vibe Tickets and I like am the official Seller"
-        },
-        "availability": {
-          "numberOfOffers": 0,
-          "numberOfChatGroups": 0,
-          "numberOfComments": 0,
-          "status": "AVAILABLE"
-        },
-        "ownerPublicProfile": {
-          "userId": "seller-id",
-          "memberSince": "2018-02-12T17:45:34.402Z",
-          "firstName": "Seller",
-          "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
-          "location": "Lancashire",
-          "bannerUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59be.jpg",
-          "about": "My name is Vibe Tickets and I like am the official Seller"
-        },
-        "expiresAt": "2018-03-06T10:31:41.622Z",
-        "smartEvent": [
-          {
-            "display": "All Points Easy Presents",
-            "tag": "#AllPointsEastPresents",
-            "category": "Event",
-            "smarties": [
-              {
-                "pop": 7556901,
-                "geoId": "2643743",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "type": "LocationSmartie"
-              },
-              {
-                "type": "DateSmartie",
-                "timeStamp": "2018-06-03T00:00:00.000Z"
-              },
-              {
-                "genres": [
-                  "Indie"
-                ],
-                "type": "ActSmartie"
-              }
-            ],
-            "disc": "London, UK",
-            "id": "a3148edf1a11f8f7",
-            "rank": 3
-          }
-        ],
-        "smartAdditionalInfo": [
-          {
-            "display": "London",
-            "tag": "#London",
-            "category": "Location",
-            "smarties": [
-              {
-                "pop": 7556901,
-                "geoId": "2643743",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "type": "LocationSmartie"
-              }
-            ],
-            "disc": "UK",
-            "id": "40ec002625bf8835"
-          }
-        ],
-        "viewCount": 1
       }
     ]
   },

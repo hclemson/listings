@@ -39,7 +39,7 @@
             "accuracy": "2.5"
           }
         ],
-        "authorPublicProfile": {
+        "owner": {
           "userId": "seller-id",
           "firstName": "Seller",
           "lastName": "Validated",
@@ -96,7 +96,7 @@
             }
           }
         ],
-        "authorPublicProfile": {
+        "owner": {
           "userId": "seller-id",
           "firstName": "Seller",
           "lastName": "Validated",

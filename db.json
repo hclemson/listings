@@ -25,15 +25,6 @@
               "width": 120,
               "height": 100
             }
-          },
-          {
-            "type": "Media",
-            "mediaType": "image/jpeg",
-            "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2F599eb4b1e4b04aceb5aa88da.jpg?alt=media&token=4a306f86-c765-4adc-b675-c75be5093179",
-            "dimensions": {
-              "width": 120,
-              "height": 100
-            }
           }
         ],
         "owner": {

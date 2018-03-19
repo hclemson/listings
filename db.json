@@ -57,7 +57,7 @@
           "userId": "seller-id",
           "firstName": "Seller",
           "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
+          "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
           "location": "Lancashire"
         },
         "viewCount": 1,
@@ -114,7 +114,7 @@
           "userId": "seller-id",
           "firstName": "Seller",
           "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
+          "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
           "location": "Lancashire"
         },
         "viewCount": 1,
@@ -200,7 +200,7 @@
           "memberSince": "2018-02-12T17:45:34.402Z",
           "firstName": "Seller",
           "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
+          "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
           "location": "Lancashire",
           "bannerUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59be.jpg",
           "about": "My name is Vibe Tickets and I like am the official Seller"
@@ -281,7 +281,7 @@
           "userId": "seller-id",
           "firstName": "Seller",
           "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
+          "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
           "location": "Lancashire"
         },
         "media": [

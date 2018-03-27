@@ -270,36 +270,66 @@
         "id": "5a8bf90de4b043ddc26a9755",
         "createdAt": "2018-02-20T10:38:41.884Z",
         "version": 1,
-        "description": "#Oasis in concert 1996",
         "hashTags": [
           "#oasis"
         ],
-        "smartDescription": [
-          "#Oasis in concert 1996"
+        "components": [
+          {
+            "type": "SmartText",
+            "smartText": [
+              "#Oasis in concert 1996 ",
+              {
+                  "category" : "User",
+                  "disc" : "",
+                  "display" : "Jon Hill",
+                  "id" : "cda8f4c538dfbd72",
+                  "rank" : 2,
+                  "smarties" :     [
+                              {
+                          "type" : "UserSmartie",
+                          "userId" : "5a9931e1e4b050643e348a0b"
+                      }
+                  ],
+                  "tag" : "@JonHill"
+              }
+            ]
+          },
+          {
+            "type": "Media",
+            "mediaType": "image/jpeg",
+            "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Fnintchdbpict000258807022.jpg?alt=media&token=3800530a-25e7-486c-b3d3-b4a9f94c05d1",
+            "dimensions": {
+              "width": 120,
+              "height": 100
+            }
+          },
+          {
+            "type": "Location",
+            "description": "Lancaster",
+            "lat": "54.04649",
+            "lng": "-2.79988",
+            "accuracy": "2.5"
+          }
         ],
-        "ownerPublicProfile": {
+        "owner": {
           "userId": "seller-id",
           "firstName": "Seller",
           "lastName": "Validated",
           "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
           "location": "Lancashire"
         },
-        "media": [
-          {
-            "contentType": "image/jpeg",
-            "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Fnintchdbpict000258807022.jpg?alt=media&token=3800530a-25e7-486c-b3d3-b4a9f94c05d1",
-            "width": 120,
-            "height": 100
-          }
-        ],
-        "location": {
-          "description": "Lancaster",
-          "lat": "54.04649",
-          "lng": "-2.79988",
-          "accuracy": "2.5"
-        },
         "viewCount": 1,
-        "commentCount": 1
+        "comments": {
+          "total": 0,
+          "latest": []
+        },
+        "likes": {
+          "byMe": false,
+          "total": 1,
+          "latest": [
+            "seller-id"
+          ]
+        }
       }
     ],
     "header": {

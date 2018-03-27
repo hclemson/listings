@@ -302,13 +302,6 @@
               "width": 120,
               "height": 100
             }
-          },
-          {
-            "type": "Location",
-            "description": "Lancaster",
-            "lat": "54.04649",
-            "lng": "-2.79988",
-            "accuracy": "2.5"
           }
         ],
         "owner": {

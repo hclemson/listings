@@ -161,23 +161,12 @@
                 "lat": 51.50853,
                 "lng": -0.12574,
                 "type": "LocationSmartie"
-              },
-              {
-                "type": "DateSmartie",
-                "timeStamp": "2018-06-01T00:00:00.000Z"
-              },
-              {
-                "genres": [
-                  "Indie"
-                ],
-                "type": "ActSmartie"
               }
             ],
             "disc": "London, UK",
             "id": "a3148edf1a11f8f7",
             "rank": 3
-          },
-          " "
+          }
         ],
         "sellerPublicProfile": {
           "userId": "seller-id",

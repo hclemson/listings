@@ -19,21 +19,7 @@
           {
             "type": "SmartText",
             "smartText": [
-              "#Oasis in concert 1996 ",
-              {
-                  "category" : "User",
-                  "disc" : "",
-                  "display" : "Jon Hill",
-                  "id" : "cda8f4c538dfbd72",
-                  "rank" : 2,
-                  "smarties" :     [
-                              {
-                          "type" : "UserSmartie",
-                          "userId" : "5a9931e1e4b050643e348a0b"
-                      }
-                  ],
-                  "tag" : "@JonHill"
-              }
+              "#Oasis in concert 1996 "
             ]
           },
           {
@@ -130,120 +116,6 @@
           ]
         }
       },
-      {
-        "type": "Wanted",
-        "id": "5a8bf90de4b043ddc26a9752",
-        "createdAt": "2018-02-20T10:31:41.884Z",
-        "score": 0,
-        "version": 1,
-        "description": "#London #AllPointsEastPresents",
-        "hashTags": [
-          "#allpointseastpresents"
-        ],
-        "askingPrice": {
-          "currencyCode": "GBP",
-          "amount": "0.00"
-        },
-        "faceValue": {
-          "currencyCode": "GBP",
-          "amount": "0.00"
-        },
-        "delivery": "ANY",
-        "smartDescription": [
-          {
-            "display": "All Points Easy Presents",
-            "tag": "#AllPointsEastPresents",
-            "category": "Event",
-            "smarties": [
-              {
-                "pop": 7556901,
-                "geoId": "2643743",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "type": "LocationSmartie"
-              }
-            ],
-            "disc": "London, UK",
-            "id": "a3148edf1a11f8f7",
-            "rank": 3
-          }
-        ],
-        "sellerPublicProfile": {
-          "userId": "seller-id",
-          "memberSince": "2018-02-12T17:45:34.402Z",
-          "firstName": "Seller",
-          "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
-          "location": "Lancashire",
-          "bannerUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59be.jpg",
-          "about": "My name is Vibe Tickets and I like am the official Seller"
-        },
-        "availability": {
-          "numberOfOffers": 0,
-          "numberOfChatGroups": 0,
-          "numberOfComments": 0,
-          "status": "AVAILABLE"
-        },
-        "ownerPublicProfile": {
-          "userId": "seller-id",
-          "memberSince": "2018-02-12T17:45:34.402Z",
-          "firstName": "Seller",
-          "lastName": "Validated",
-          "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
-          "location": "Lancashire",
-          "bannerUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59be.jpg",
-          "about": "My name is Vibe Tickets and I like am the official Seller"
-        },
-        "expiresAt": "2018-03-06T10:31:41.622Z",
-        "smartEvent": [
-          {
-            "display": "All Points Easy Presents",
-            "tag": "#AllPointsEastPresents",
-            "category": "Event",
-            "smarties": [
-              {
-                "pop": 7556901,
-                "geoId": "2643743",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "type": "LocationSmartie"
-              },
-              {
-                "type": "DateSmartie",
-                "timeStamp": "2018-06-03T00:00:00.000Z"
-              },
-              {
-                "genres": [
-                  "Indie"
-                ],
-                "type": "ActSmartie"
-              }
-            ],
-            "disc": "London, UK",
-            "id": "a3148edf1a11f8f7",
-            "rank": 3
-          }
-        ],
-        "smartAdditionalInfo": [
-          {
-            "display": "London",
-            "tag": "#London",
-            "category": "Location",
-            "smarties": [
-              {
-                "pop": 7556901,
-                "geoId": "2643743",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "type": "LocationSmartie"
-              }
-            ],
-            "disc": "UK",
-            "id": "40ec002625bf8835"
-          }
-        ],
-        "viewCount": 1
-      }
     ]
   },
   "oasis": {
@@ -312,10 +184,54 @@
             "seller-id"
           ]
         }
+      },
+      {
+        "type": "Post",
+        "id": "5a8bf90de4b043ddc26a9755",
+        "createdAt": "2018-02-20T10:38:41.884Z",
+        "version": 1,
+        "hashTags": [
+          "#oasis"
+        ],
+        "components": [
+          {
+            "type": "SmartText",
+            "smartText": [
+              "Some #Oasis test"
+            ]
+          },
+          {
+            "type": "Media",
+            "mediaType": "image/jpeg",
+            "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Fnintchdbpict000258807022.jpg?alt=media&token=3800530a-25e7-486c-b3d3-b4a9f94c05d1",
+            "dimensions": {
+              "width": 120,
+              "height": 100
+            }
+          }
+        ],
+        "owner": {
+          "userId": "seller-id",
+          "firstName": "Seller",
+          "lastName": "Validated",
+          "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
+          "location": "Lancashire"
+        },
+        "viewCount": 1,
+        "comments": {
+          "total": 0,
+          "latest": []
+        },
+        "likes": {
+          "byMe": false,
+          "total": 1,
+          "latest": [
+            "seller-id"
+          ]
+        }
       }
     ],
     "header": {
-      "bio": "Formed by brothers Noel and Liam Gallagher and their Manchester mates, Oasis rose to the top of the British charts in the mid-Nineties with its flair for classic psychedelic pop",
       "images":["https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Foasis.jpg?alt=media&token=0970ea5d-2364-4b66-a95f-f4ac2c12b871"]
     },
     "following": "true"

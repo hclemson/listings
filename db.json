@@ -1,5 +1,7 @@
 {
-  "location":"test",
+  "location":{
+    "test":"hello"
+  },
   "optionOne": {
     "paging": {
       "pageNumber": 1,

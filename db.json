@@ -1,4 +1,8 @@
 {
+  "location" : {
+    "latitude": 54.0474974,
+    "longitude": -2.8037070
+  }
   "optionOne": {
     "paging": {
       "pageNumber": 1,
